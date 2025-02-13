@@ -1,2 +1,4 @@
-A="hello world"
-print(A)
+A="hello"
+B="world"
+print(A)(B)
+print("HELLO WORLD")
